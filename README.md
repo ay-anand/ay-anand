@@ -4,11 +4,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ay-anand&label=Profile%20views&color=0e75b6&style=flat" alt="ay-anand" /> </p> 
 
 ------------------------------------------------------
+<p align="center">
+<a href="https://drive.google.com/file/d/1NlIhUr49HPa2g1fWucCLtupf8xxihoCK/view?usp=sharing"><img src="https://img.shields.io/badge/My%20resume-purple?style=flat&logo=My resume&logoColor=white&link=https://drive.google.com/file/d/1iA5GXdMqwfmG2-lQz63tgduNs3KRaxYB/view?usp=sharing" alt="My resume" /></a>
+<a href="https://ayushdab33@gmail.com"><img src="https://img.shields.io/badge/Mail%20me%20here-brown?style=flat&logo=Mail me here&logoColor=white&link=https://ayushdab33@gmail.com" alt="Mail me here" /></a>
 <a href="https://www.linkedin.com/in/ayush03ad/"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayush03ad/" alt="Linkedin" /></a>
 <a href="https://medium.com/@ay-anand/"><img src="https://img.shields.io/badge/Medium-reddish?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@ay-anand/" alt="Medium" /></a>
 <a href="https://www.kaggle.com/ayuanand"><img src="https://img.shields.io/badge/Kaggle-white?style=flat&logo=Kaggle&logoColor=blue&link=https://www.kaggle.com/ayuanand" alt="Kaggle" /></a>
-<a href="https://ayushdab33@gmail.com"><img src="https://img.shields.io/badge/Mail%20me%20here-brown?style=flat&logo=Mail me here&logoColor=white&link=https://ayushdab33@gmail.com" alt="Mail me here" /></a>
-<a href="https://drive.google.com/file/d/1NlIhUr49HPa2g1fWucCLtupf8xxihoCK/view?usp=sharing"><img src="https://img.shields.io/badge/My%20resume-purple?style=flat&logo=My resume&logoColor=white&link=https://drive.google.com/file/d/1NlIhUr49HPa2g1fWucCLtupf8xxihoCK/view?usp=sharing" alt="My resume" /></a>
+</p> 
 
 ------------------------------------------------------
 
