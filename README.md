@@ -19,28 +19,83 @@
 </div>
 
 
-- 🔭 My recent project with IIIT B'lore [Lead Scoring Case Study](https://github.com/ay-anand/Lead_Scoring_Case_Study.git)
+## Welcome to My Special Repository
 
-- 🌱 I’m currently learning **Frameworks: TensorFlow PyTorch Scikit-Learn Pandas NumPy Skills: Programming (Python, R) Statistical Analysis Data Cleaning and Preprocessing Machine Learning Algorithms Data Visualization (Matplotlib, Seaborn) Big Data Technologies (Spark) Database Management (SQL, NoSQL) Deep Learning Natural Language Processing (NLP) Cloud Computing (AWS, Azure, Google Cloud) Knowledge Areas: Mathematics (Linear Algebra, Calculus, Probability) Exploratory Data Analysis (EDA) Feature Engineering Model Evaluation and Validation Dimensionality Reduction Time Series Analysis A/B Testing Domain-specific Knowledge (e.g., Finance, Healthcare) Ethics in Data Science**
+### About Me
 
-- 🔭 My recent project with IIIT B'lore [EDA](https://github.com/ay-anand/EDA.git)
+Hello, I am **Ayush Anand**, a passionate data scientist currently pursuing a **Master's in Analytics** at **Northeastern University, Boston**. With a strong foundation in machine learning, big data technologies, and advanced analytics, I excel in solving complex business problems through data-driven solutions. 🌐
 
-- 🤝 Currently I'm working on **> Taming the Data Beast: Wrangling & Cleaning Data > Building My ML Arsenal: Exploring Algorithms > Chasing Insights: Diving into Data Visualization > Always Learning: New Concepts Every Day!**
+### Highlights
 
-- 📝 I regularly write articles on [https://medium.com/@ay-anand](https://medium.com/@ay-anand)
+* **Published Research**: Authored a research paper on **sensor-based public safety systems** in **IEEE Xplore**, showcasing expertise in IoT and real-time data systems. 🔗
+* **Academic Achievements**:
+  - Successfully completed the **1st quarter** of my program at Northeastern University.
+  - Courses completed include:
+    - **ALY6010: Probability Theory and Introductory Statistics**
+    - **ALY6015: Intermediate Analytics**
+    - **ITC6000: Database Management Systems**
+* **Industry-Driven Projects**:
+  - **Social Media Engagement Analysis**: Developed insights for marketers by analyzing engagement trends across platforms like Instagram and Facebook. 📝
+  - **Lead Conversion Optimization**: Designed a logistic regression model, enhancing lead conversion rates for X Education. 🚀
+  - **Bike Sharing Demand Prediction**: Built predictive models using machine learning to forecast demand patterns for BoomBikes. 🚨
+  - **Loan Prediction Analysis**: Conducted exploratory data analysis to assess and mitigate loan default risks. 🍀
+* **Technical Skills**: Expertise in Python, R, SQL, Hadoop, Apache Spark, TensorFlow, PyTorch, and Google Cloud AI Platform. 🔄
+* **Soft Skills**: Exceptional problem-solving, leadership, and communication abilities, with a proven record of effective teamwork and adaptability. 🏋️‍♂️
 
-- 💬 Ask me about **TensorFlow PyTorch Scikit-Learn Pandas NumPy Python Statistical Analysis Data Cleaning and Preprocessing Machine Learning Algorithms Matplotlib Seaborn SQL NoSQL NLP Linear Algebra Calculus Probability EDA A/B Testing**
+### What I’m Currently Working On
 
-- 📄 Know about my experiences [http://surl.li/rnhcg](http://surl.li/rnhcg)
+* **Hotel Reservation System**: Creating a database management system to optimize operations, enhance guest satisfaction, and drive revenue through analytics. 🏨
+* **University Projects**: Leveraging skills and knowledge from my coursework to work on:
+  - **Social Media Engagement Analysis**: Detailed exploration and analysis of audience behavior and post performance.
+  - **Advanced Analytics**: Statistical modeling and hypothesis testing to derive actionable business insights.
+  - **Database Design**: Implementing a scalable and efficient relational database for real-world applications. 🔬
 
-- ⚡ Fun fact **Did you know? Data scientists spend about 80% of their time cleaning and preparing data! 🧹💻**
+### My Expertise
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayush03ad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush03ad" height="30" width="40" /></a>
-<a href="https://kaggle.com/ayuanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayuanand" height="30" width="40" /></a>
-<a href="https://medium.com/@ay-anand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ay-anand" height="30" width="40" /></a>
-</p>
+#### Tools and Frameworks:
+* **Programming**: Python, R 💻
+* **Machine Learning Frameworks**: TensorFlow, PyTorch, Scikit-Learn 🌐
+* **Big Data**: Hadoop, Apache Spark 📊
+* **Data Management**: SQL, NoSQL 🔍
+* **Visualization**: Matplotlib, Seaborn 🖌
+* **Cloud Platforms**: Google Cloud, AWS ☁️
+
+#### Key Skills:
+* Statistical Analysis and Data Cleaning 🎯
+* Machine Learning Algorithms (Regression, Classification, NLP) 🔠
+* Deep Learning and Neural Networks 🧠
+* Exploratory Data Analysis (EDA) and Feature Engineering 🔬
+* A/B Testing and Time Series Analysis 🕱
+
+#### Knowledge Areas:
+* Mathematics (Linear Algebra, Calculus, Probability) ✔️
+* Ethics in Data Science 📢
+* Dimensionality Reduction and Model Optimization 🔍
+
+### Thought Leadership
+* **Medium Articles**: I write detailed, actionable articles on data science topics, available [here](https://medium.com/@ay-anand). 🔖
+
+### Professional Credentials
+* **Certifications**:
+  - SQL for Data Science (Coursera) 🔠
+  - Python Programming (University of Michigan, Coursera) 🔄
+  - SQL for Data Analysis (LinkedIn Learning) 📊
+* **Achievements**:
+  - Published IEEE research paper on IoT systems for public safety. 🌐
+
+### Let’s Connect, discuss and explore something interesting 
+* [LinkedIn](https://www.linkedin.com/in/ayush03ad/) 📞
+* [GitHub](https://github.com/ayush-anand) 🔧
+* [Medium](https://medium.com/@ay-anand) 🔖
+* [Email](mailto:ayushdab33@gmail.com) 📧
+
+### Fun Fact
+Data scientists spend about 80% of their time cleaning and preparing data—and I’ve mastered making that process efficient and insightful! 🧹💻
+
+### Resume
+For a comprehensive look at my experience and projects, view my [Resume](http://surl.li/rnhcg). 🔗
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
